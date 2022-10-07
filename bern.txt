@@ -1,0 +1,211 @@
+
+<html>
+<head>
+<title> RESUME </title>
+</head>
+<style>
+p
+{
+border:10px solid green
+}
+</style>
+<p>
+
+
+<body>
+<center>
+<h1>
+<u> <u>
+</h1>
+</center>
+
+<h3> MELANIE G. FLORENTINO
+<img src="
+  https://dl.dropbox.com/s/dc4o6vugjzuimxt/received_1137297457145166.jpeg?dl=0
+  " width=200 height-=200 hspace=350 align= right>
+<h5> TALOOT, ARGAO, CEBU<h5>
+<h5> melanieflorentino02@gmail.com</h5>
+<h5> Contact No:09326086577 </h5><hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> CAREER OBJECTIVES</u>
+</h2>
+
+<h3> To succeed in an environmental of growth and excellent and earn a job
+     which provides me job satisfaction and self development and help me achieve <br>
+	personal as well as organization goals.
+</h3>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> ACADEMIC QUALIFICATION </u>
+</h2>
+<table border=5 width=1000>
+<tr>
+	<th> 	Educational Attainment</th>
+	<th> 	Board/University</>
+	<th> 	Course</th>
+	<th> 	Year of Passing</th>
+	<th> 	Marks</th>
+</tr>
+
+<tr>
+	
+	<th> 	College Graduate</th>
+	<th> 	St. Paul College Foundation Inc.</>
+	<th> 	Associate in Computer Technology</th>
+	<th> 	Year 2017</th>
+	<th> 	Passed</th>
+</tr>
+<tr>
+	
+	<th> 	Secondary</th>
+	<th> 	Simala National High School</>
+	<th> 	XXXXXXX</th>
+	<th> 	Year 2015</th>
+	<th> 	Passed</th>
+
+</tr>
+<tr>
+	<th> 	Primary School</th>
+	<th> 	Taloot Central Elementary School</>
+	<th> 	With Honors</th>
+	<th> 	Year 2012</th>
+	<th> 	Passed</th>
+</tr>
+</table>
+<h2>
+<u> SKILLS <u>
+</h2>
+
+<ul>
+	<h3>
+	<b>
+	<li> Effective communication
+	<li> Ability to handle pressure
+	<li> Creative Problem Solving
+	<li> Organizational Ability
+	<li> Knowledge retention and Recall
+	<LI> Self motivated</li>
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> Personal Details</u>
+</h2>
+<ul>
+	<b>
+	<h3>
+	<li> Name: Melanie G. Florentino
+	<li> Birthdate: November 18, 1998
+	<li> Status: Married
+	<li> Age: 24 
+	<li> Religion: Roman Catholic
+	<li> Nationality: Filipino<li>
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> Seminars/Trainings Attended</u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li> Municipal Database Encoder and SDU Forum
+<br> Golden Peak Hotel & Suites, Gorordo Ave., Cebu, City 
+<br> November 27-29, 2019</br>
+
+
+	<li> Rollout Training of Additional Financing on CDD Facilitation in Group 2 Municipalities
+<br> Golden Prince Hotel, Cebu, City
+<br>October 13-15, 2021</br>
+
+	<li> Municipal Database Encoder Conference Training
+<br> KALAHI Office, Municipality of Argao
+<br> October 12-13, 2021</br>
+
+	<LI> CDD Facilitation and Sub-Project Proposal Development Training
+<br> KALAHI Office, Municipality of Argao
+ <br> November 17-18, 2021</br>
+
+	<li> Municipal Database Analyst 䏭 Conference
+<br> Goldberry Hotel & Suites
+<br> May 24-25, 2022</br>
+
+	<li> BDRRMC Coaching Session and workshops Government on RA 9184
+<br> Argao Sports Complex
+<br> June 7-8, 2022</br>
+
+	<li> Training on Disaster Response Operation and Modality for DSWD KALAHI Projects
+<br> One Central Hotel , Cebu ,City
+<br> June 22-24, 2022</br>
+
+</li>
+	</ul>
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> Job experience</u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li> On Job Training at Bureau of Internal Revenue
+<br> Near Ayala Center Cebu, Archbishop Reyes Ave., Cebu City
+<br> July 13, 2016    October 15, 2016</br>
+
+	<li> Call Center Agent - Call Analyst
+<br> Tech Hub Corp.
+<br> GAGFA IT Tower, F. Cabahug St. Cebu City
+<br>November 2, 2017- August 2018</br>
+
+	<li> Telesales Executive and Customer Service Representative 
+<br> 3rd Floor, Hyundai Building, A.S. Fortuna St, Mandaue City, Cebu
+<br> Live2Sell Corp.
+<br> August 2018    December 2018</br>
+
+	<li> Community Facilitator
+<br> COSSO Office, Municipality of Argao
+<br> January 01, 2020    December 30, 2020</br>
+
+	<li> Municipal Database Analyst
+<br> KALAHI CIDSS OFFICE under DSWD 
+<br> July 8, 2019 - Present
+</li>
+	</ul>
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> Certification Acquired</u>
+</h2>
+
+<ul>
+	<b.
+	h3>
+	<li> Animation - NC III </li>
+</ul>
+
+</ul>
+<h2>
+<div style="background-color:gray;color:white;padding:3px;">
+<u> Character Reference</u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li> Maria Cristina N. Almi簽e - COSSO Head
+	<li> Flordeliza A. Botero - Registered Social Worker
+	<li> Chanito M. Quiblat - Barangay Captain</li>
+	</ul>
+	
+
+
+
+
+
+</p>
+<script src="https://www.drv.tw/inc/wd.js?s=vudj4jlrdjmk5jziv30ydg"></script></body>
+
+</html>
+

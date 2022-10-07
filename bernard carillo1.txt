@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Resume</title>
+	</head>
+	<body>
+<body bgcolor="pink">
+	
+		
+	<center>
+
+	<h1>My Resume</h1>
+
+
+	<br>
+	<img src="bernard.jpg" width="300" height="300">
+
+	<dl>
+		<dt><h3>Carrier Objectives</h3></dt>
+		<dd><p>Seeking the challenging career with a progressive </p>organization that provides an opportunity to capitalize<p> my technical skills and abilities in the field of Computer Technology</p></dd>
+	</dl>
+	<h2>Personal Information</h2>
+	<dl>
+		<dt><h3>Name</h3></dt>
+		<dd>Bernard CAarillo</dd>
+	</dl>
+	<dl>
+		<dt><h3>Age</h3></dt>
+		<dd>29 yrs. old</dd>
+	</dl>
+	<dl>
+		<dt><h3>Date of Birth</h3></dt>
+		<dd>June 10, 1993</dd>
+	</dl>
+	<dl>
+		<dt><h3>Place of Birth</h3></dt>
+		<dd>Palid-1 Leyte,Leyte</dd>
+	</dl>
+	<h2>Educational Attainment</h2>
+	<dl>
+		<dt><h3>Elementary</h3></dt>
+		<dd>Palid -1 Elementary School</dd>
+	</dl>
+	<dl>
+		<dt><h3>Secondary</h3></dt>
+		<dd>Argao National high School</dd>
+	</dl>
+	<dl>
+		<dt><h3>Tertiary</h3></dt>
+		<dd>Cebu Technological University</dd>
+
+	</dl>
+
+	<h2>Work Experience</h2>
+	<ul>
+		
+		< 
+ 
+		<li><h3>Phillipine Identification Systen</h3></li>
+		 Philippine Statistic Office Argao, Cebu<br>
+		  Finished contract 2021
+	</ul>
+	</center>
+	
+	
+	</body>
+	</html>
+
+
